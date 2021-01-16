@@ -1,2 +1,3 @@
 # datasciencecoursera1
-It is my seconde Git repo
+It is my second Git repo
+This is a markdown file: file:///C:/Users/agboh/OneDrive/Documents/MOOC/MY-MARKDOWN-1.html
